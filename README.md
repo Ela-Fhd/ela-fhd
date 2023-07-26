@@ -26,11 +26,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sanowardewan5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanowardewan5" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sanowar-dewan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanowar-dewan" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16750805" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16750805" height="30" width="40" /></a>
-<a href="https://fb.com/sanowardwn85" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sanowardwn85" height="30" width="40" /></a>
-<a href="https://instagram.com/sanowar_85" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanowar_85" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/sanowardewan5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanowardewan5" height="30" width="40" /></a> -->
+<a href="https://linkedin.com/in/elahe-fahmideh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elahe-fahmideh" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/18073955/elahe-fahmideh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18073955" height="30" width="40" /></a>
+<a href="https://instagram.com/ela.fhd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ela.fhd" height="30" width="40" /></a>
 </p>
 
 
