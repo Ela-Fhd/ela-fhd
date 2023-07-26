@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Elahe Fahmideh</h1>
-<h3 align="center">Im a Web Developer <h3>
 
+<h3>✏️about me :<h3>
+     
 -🙋‍♀️ Im a Front end developer
 
--✅ I also have experience working in the backend 
+-✅ I also have experience working in backend 
 
 -<small>💌</small> Connect with me : **Elahe.fahmideh@gmail.com**
 
